@@ -25,7 +25,7 @@
 */
 
 	return array(
-		'permit_post_poll' => 'Create polls',
+		'permit_post_poll' => 'পোল তৈরি করুন',
 		'permit_vote_poll' => 'Vote on polls',
 		'permit_close_poll' => 'Close any poll',
 		'permit_delete_poll' => 'Delete any poll',
@@ -40,18 +40,19 @@
 		
 		'poll_closed' => 'Poll closed',
 
-		'question_title' => '[poll]',
-		'comments' => '[poll]',
+		'question_title' => '[ভোট]',
+		'comments' => '[ভোট]',
 		'checkbox_text' => 'Create poll',
 		'multiple_text' => 'Allow multiple votes',
-		'vote_button' => 'vote',
+		'vote_button' => 'ভোট করুন',
 		'voted_button' => 'unvote',
 		'cannot_change' => 'You cannot change your vote once you have voted.',
 		'already_voted' => 'You have already voted once.',
 		'disabled_button' => 'you are not allowed to vote',
 		'answers_text' => 'Choices:',
 		'page_title' => 'Polls',
-		'choice_count_error' => 'You must enter at least two choices for the poll.',
+		'choice_count_error' => 'You must enter at least two choices for the poll.',
+
 	);
 
 /*
