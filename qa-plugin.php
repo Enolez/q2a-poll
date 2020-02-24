@@ -1,13 +1,13 @@
 <?php
         
 /*              
-        Plugin Name: Polls
-        Plugin URI: https://github.com/NoahY/q2a-poll
+        Plugin Name: Enolez Polls
+        Plugin URI: https://github.com/Enolez/q2a-poll
         Plugin Update Check URI: https://raw.github.com/NoahY/q2a-poll/master/qa-plugin.php
-        Plugin Description: Ask poll questions
+        Plugin Description: Develop By Masud
         Plugin Version: 2.3
         Plugin Date: 2011-09-05
-        Plugin Author: NoahY
+        Plugin Author: Abdullah Al Masud
         Plugin Author URI:                              
         Plugin License: GPLv2                           
         Plugin Minimum Question2Answer Version: 1.5
