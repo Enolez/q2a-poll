@@ -14,6 +14,7 @@
 				$permits[] = 'permit_post_poll';
 				$permits[] = 'permit_close_poll';
 				$permits[] = 'permit_delete_poll';
+.                               $permits[] = 'permit_edit_poll' ;
 				foreach($permits as $optionname) {
 					$value = qa_opt($optionname);
 					$optionfield=array(
